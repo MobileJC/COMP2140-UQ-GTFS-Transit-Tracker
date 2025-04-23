@@ -1,6 +1,6 @@
 # COMP2140-UQ-GTFS-Transit-Tracker
 
-This project was developed as part of **COMP2140: Design Computing Studio 2** at the University of Queensland in Semester 2, 2023.
+This project was developed as part of **COMP2140: WEB/MOBILE PROGRAMMING** at the University of Queensland in Semester 2, 2023.
 
 It is a command-line transit tracker for the **UQ Lakes bus station**, designed to parse, merge, and filter GTFS static data files and fetch GTFS-realtime JSON feeds. The application is written in **Node.js** using modern JavaScript (ES modules) and demonstrates modular logic, asynchronous data handling, and CSV-to-JSON data transformation.
 
