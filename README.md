@@ -4,6 +4,8 @@ This project was developed as part of **COMP2140: WEB/MOBILE PROGRAMMING** at th
 
 It is a command-line translink tracker for the **UQ Lakes bus station**, designed to parse, merge, and filter GTFS static data files and fetch GTFS-realtime JSON feeds. The application is written in **Node.js** using modern JavaScript (ES modules) and demonstrates modular logic, asynchronous data handling, and CSV-to-JSON data transformation.
 
+Note: The connection to the proxy server has been shut down, as it was open only for semester 2, 2023.
+
 ---
 
 ## 🚀 How to Run
